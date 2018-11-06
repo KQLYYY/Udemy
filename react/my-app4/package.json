@@ -1,16 +1,15 @@
 {
-  "name": "my-app",
+  "name": "my-app4",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "eslint-plugin-flowtype": "^2.50.3",
+    "eslint-plugin-flowtype": "^3.2.0",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jsx-a11y": "^6.1.2",
     "eslint-plugin-react": "^7.11.1",
-    "radium": "^0.25.0",
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2",
-    "react-scripts": "2.0.4"
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "react-scripts": "2.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
